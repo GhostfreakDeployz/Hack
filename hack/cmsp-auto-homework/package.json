@@ -1,0 +1,25 @@
+{
+  "name": "cmsp-auto-homework",
+  "version": "2.0.0",
+  "description": "Bot que responde todas as atividades do aplicativo CMSP usando o engenharia reversa.",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "qs": "^6.10.1",
+    "readline-sync": "^1.4.10"
+  },
+  "scripts": {
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kauefranca/cmsp-auto-homework.git"
+  },
+  "keywords": [],
+  "author": "Kauê França",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kauefranca/cmsp-auto-homework/issues"
+  },
+  "homepage": "https://github.com/Kauefranca/cmsp-auto-homework#readme"
+}
